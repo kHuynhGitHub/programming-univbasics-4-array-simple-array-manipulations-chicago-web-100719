@@ -3,22 +3,22 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  Array.unshift(String)
+  Array.unshift(string)
 end
 
-def using_pop(Array)
+def using_pop(array)
   Array.pop
 end
 
-def pop_with_args(Array)
+def pop_with_args(array)
   
 end
 
-def using_shift(Array)
+def using_shift(array)
   
 end
 
-def shifts_with_args(Array)
+def shifts_with_args(array)
   
 end
 
@@ -26,22 +26,22 @@ def using_concat()
   
 end
 
-def using_insert(Array)
+def using_insert(array)
   
 end
 
-def using_uniq(Array)
+def using_uniq(array)
   
 end
 
-def using_flatten(Array)
+def using_flatten(array)
   
 end
 
-def using_delete(Array, String)
+def using_delete(array, string)
   
 end
 
-def using_delete_at(Array, Integer)
+def using_delete_at(array, integer)
   
 end
